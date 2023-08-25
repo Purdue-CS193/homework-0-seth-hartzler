@@ -1,3 +1,10 @@
+# Seth's First CS193 Homework
+
+What I like about CS193:
+- Seems more chill than most of my other classes
+- Getting to approach programming from a more practical perspective
+- University Church: cool location for a classroom
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
